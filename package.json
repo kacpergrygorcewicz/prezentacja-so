@@ -1,0 +1,15 @@
+{
+  "name": "prezentacja-so",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kacpergrygorcewicz",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.3",
+    "express": "^4.18.2"
+  }
+}
